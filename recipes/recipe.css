@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    font-family: Verdana;
+    background-color: #fab1a0;
+}
+
+img {
+    height: auto;
+    width: 400px;
+    margin: 0;
+}
+
+.description {
+    display: flex;
+    justify-content: center;
+    background-color: sandybrown;
+}
+
+.description #description {
+    background-color: sandybrown;
+    align-self: center;
+    margin-left: -25px;
+    padding-right: 15px;
+}
