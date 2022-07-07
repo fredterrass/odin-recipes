@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    background-color: rgb(247, 238, 232);
+}
+
+
+header {
+    display: flex;
+    justify-content: center;
+    font-family: Verdana;
+    background-color: #fab1a0;
+}
+
+div.list-recipe {
+    display: flex;
+    justify-content: center;
+}
+
+.list-recipe li{
+    padding: 0.85rem 0;
+}
